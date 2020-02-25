@@ -2,7 +2,9 @@
 This is a project as both a learning exercise and a practical project to create something that can emulate an Circuit Playground Express By Adafruit.
 
 ![Circuit Playground Express](/images/3333-01.jpg)
-
+# Who is involved with the Development?
+This project was initially started by Jkobb Olguin, and members are added to the project on a basis of skill, problem solving, and trust of the individuals in question
+before a member is added, the previous contributors to the project will be notified, and a vote will be taken. If one of the members has justified and legitimate concerns involving the integrity, skill, or general demeanor of the individual, they will be taken under review and a vote will be called amongst the neutral members of what action to proceed forward with.
 # To Do list:
  - [ ] Read in code
  - [ ] Execute it with a variable clock speed
