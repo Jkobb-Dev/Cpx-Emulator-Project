@@ -1,2 +1,2 @@
 1 Use an InteractiveInterpreter object to read code in, and then parse it into instructions.
-2 Create an object that will do that, but with methods that we write to make the creation precess easier.
+2 Create an object that will do that, but with methods that written to make the creation precess easier.
